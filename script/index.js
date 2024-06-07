@@ -20,3 +20,6 @@ let todoList = [
 ];
 
 console.log(todoList);
+
+let button1 = document.getElementById('Sorting')
+let button2 = document.getElementById('Add')
